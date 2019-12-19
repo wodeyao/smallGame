@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: 46a37085c77b4c54fb4349284f2cdf5b
+timeCreated: 1576582213
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 2x_0
+    21300002: 2x_1
+    21300004: 2x_2
+    21300006: 2x_3
+    21300008: 2x_4
+    21300010: 2x_5
+    21300012: 2x_6
+    21300014: 2x_7
+    21300016: 2x_8
+    21300018: 2x_9
+    21300020: 2x_10
+    21300022: 2x_11
+    21300024: 2x_12
+    21300026: 2x_13
+    21300028: 2x_14
+    21300030: 2x_15
+    21300032: 2x_16
+    21300034: 2x_17
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2x_0
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 288
+        width: 132
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2x_1
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 284
+        width: 131
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2x_2
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 283
+        width: 131
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2x_3
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 283
+        width: 131
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2x_4
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 283
+        width: 130
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2x_5
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 283
+        width: 131
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2x_6
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 283
+        width: 134
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2x_7
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 283
+        width: 162
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2x_8
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 288
+        width: 177
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2x_9
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 288
+        width: 194
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2x_10
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 84
+        width: 198
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2x_11
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 83
+        width: 192
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2x_12
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 83
+        width: 176
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2x_13
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 83
+        width: 158
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2x_14
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 83
+        width: 133
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2x_15
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 83
+        width: 131
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2x_16
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 85
+        width: 130
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2x_17
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 92
+        width: 131
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -530, y: -132}
+      - {x: -521, y: -132}
+      - {x: -534, y: -154}
+      - {x: -495, y: -175}
+      - {x: -382, y: -175}
+      - {x: -344, y: -141}
+      - {x: -344, y: -62}
+      - {x: -360, y: -20}
+      - {x: -540, y: -20}
+      - {x: -540, y: -129}
+    - - {x: -153, y: -18}
+      - {x: -295, y: -18}
+      - {x: -309, y: -22}
+      - {x: -309, y: -133}
+      - {x: -280, y: -175}
+      - {x: -177, y: -175}
+      - {x: -132, y: -140}
+      - {x: -129, y: -135}
+      - {x: -129, y: -73}
+    - - {x: -94, y: -134}
+      - {x: -55, y: -175}
+      - {x: 5, y: -175}
+      - {x: 68, y: -144}
+      - {x: 68, y: -92}
+      - {x: 37, y: -16}
+      - {x: -66, y: -16}
+      - {x: -94, y: -54}
+    - - {x: 131, y: -15}
+      - {x: 103, y: -36}
+      - {x: 103, y: -128}
+      - {x: 137, y: -175}
+      - {x: 189, y: -175}
+      - {x: 240, y: -155}
+      - {x: 240, y: -48}
+      - {x: 232, y: -15}
+    - - {x: 275, y: -17}
+      - {x: 275, y: -165}
+      - {x: 277, y: -175}
+      - {x: 370, y: -175}
+      - {x: 410, y: -169}
+      - {x: 410, y: -33}
+      - {x: 401, y: -17}
+    - - {x: -727, y: -23}
+      - {x: -777, y: -94}
+      - {x: -777, y: -134}
+      - {x: -742, y: -172}
+      - {x: -712, y: -174}
+      - {x: -604, y: -174}
+      - {x: -575, y: -144}
+      - {x: -575, y: -77}
+      - {x: -616, y: -23}
+    - - {x: 452, y: -19}
+      - {x: 445, y: -35}
+      - {x: 445, y: -149}
+      - {x: 452, y: -173}
+      - {x: 556, y: -173}
+      - {x: 579, y: -142}
+      - {x: 579, y: -36}
+      - {x: 572, y: -19}
+    - - {x: 631, y: -21}
+      - {x: 614, y: -43}
+      - {x: 614, y: -155}
+      - {x: 627, y: -166}
+      - {x: 735, y: -166}
+      - {x: 749, y: -131}
+      - {x: 749, y: -33}
+      - {x: 719, y: -21}
+    - - {x: -538, y: 177}
+      - {x: -563, y: 156}
+      - {x: -563, y: 50}
+      - {x: -560, y: 38}
+      - {x: -529, y: 29}
+      - {x: -494, y: 25}
+      - {x: -460, y: 25}
+      - {x: -450, y: 27}
+      - {x: -428, y: 45}
+      - {x: -428, y: 159}
+      - {x: -435, y: 177}
+    - - {x: -270, y: 179}
+      - {x: -385, y: 179}
+      - {x: -393, y: 162}
+      - {x: -393, y: 76}
+      - {x: -382, y: 32}
+      - {x: -358, y: 25}
+      - {x: -296, y: 25}
+      - {x: -260, y: 59}
+      - {x: -258, y: 68}
+      - {x: -258, y: 176}
+    - - {x: -196, y: 181}
+      - {x: -218, y: 168}
+      - {x: -223, y: 126}
+      - {x: -223, y: 66}
+      - {x: -215, y: 45}
+      - {x: -163, y: 25}
+      - {x: -119, y: 25}
+      - {x: -89, y: 51}
+      - {x: -89, y: 165}
+      - {x: -91, y: 181}
+    - - {x: 58, y: 183}
+      - {x: -49, y: 183}
+      - {x: -54, y: 178}
+      - {x: -54, y: 34}
+      - {x: -29, y: 25}
+      - {x: 44, y: 25}
+      - {x: 69, y: 42}
+      - {x: 81, y: 82}
+      - {x: 81, y: 173}
+    - - {x: 136, y: 181}
+      - {x: 116, y: 146}
+      - {x: 116, y: 57}
+      - {x: 139, y: 25}
+      - {x: 203, y: 25}
+      - {x: 254, y: 49}
+      - {x: 254, y: 155}
+      - {x: 230, y: 181}
+    - - {x: 315, y: 180}
+      - {x: 302, y: 167}
+      - {x: 289, y: 141}
+      - {x: 289, y: 32}
+      - {x: 307, y: 25}
+      - {x: 455, y: 25}
+      - {x: 455, y: 176}
+      - {x: 439, y: 180}
+    - - {x: -643, y: 177}
+      - {x: -703, y: 177}
+      - {x: -727, y: 161}
+      - {x: -733, y: 125}
+      - {x: -733, y: 52}
+      - {x: -721, y: 35}
+      - {x: -662, y: 26}
+      - {x: -598, y: 26}
+      - {x: -598, y: 150}
+      - {x: -608, y: 166}
+    - - {x: -798, y: 177}
+      - {x: -885, y: 177}
+      - {x: -904, y: 145}
+      - {x: -904, y: 39}
+      - {x: -902, y: 33}
+      - {x: -847, y: 30}
+      - {x: -779, y: 30}
+      - {x: -768, y: 43}
+      - {x: -768, y: 152}
+    - - {x: 490, y: 118}
+      - {x: 490, y: 32}
+      - {x: 491, y: 30}
+      - {x: 671, y: 30}
+      - {x: 671, y: 120}
+      - {x: 641, y: 178}
+      - {x: 524, y: 178}
+      - {x: 507, y: 176}
+    - - {x: 864, y: 177}
+      - {x: 723, y: 177}
+      - {x: 706, y: 121}
+      - {x: 706, y: 52}
+      - {x: 734, y: 35}
+      - {x: 787, y: 30}
+      - {x: 867, y: 30}
+      - {x: 904, y: 59}
+      - {x: 904, y: 133}
+      - {x: 886, y: 166}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
